@@ -41,6 +41,11 @@ I'm a Junior Fullstack Developer. I like to work on open-source projects.
 
 ![](https://github-readme-stats.vercel.app/api?username=Pradeeb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
+## 🚀 Get in Touch :
+
+[![Linkedin](https://img.shields.io/badge/-Pradeeb-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pradeeb-j/)](https://www.linkedin.com/in/pradeeb-j)
+
+
 ### 📚 Developer's Insights :
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
