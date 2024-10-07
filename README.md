@@ -8,7 +8,7 @@ I'm a Junior Fullstack Developer. I like to work on open-source projects.
 ## About me :
 
 - 💡  Passionate to learn new Technologies.
--🌱 Currently diving deeper into react.js and node.js.
+- 🌱 Currently diving deeper into react.js and node.js.
 
 # 💻 Tech Stack :
 
