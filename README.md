@@ -36,7 +36,6 @@ I'm a Junior Fullstack Developer. I like to work on open-source projects.
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Pradeeb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api?username=Pradeeb&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ## 🚀 Get in Touch :
 
