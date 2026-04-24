@@ -34,8 +34,7 @@ I'm a Junior Fullstack Developer. I like to work on open-source projects.
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats:
-
-![synthwave](https://github-readme-stats.vercel.app/api?username=Pradeeb&theme=dark&hide_border=false&include_all_commits=false&theme=synthwave)
+![Neon GitHub stats](https://github-readme-stats.vercel.app/api?username=Pradeeb&theme=radical&show_icons=true&count_private=true&title_color=ff00ff&icon_color=00ffff&text_color=ffffff&bg_color=0f0c29,302b63,24243e)
 
 ## 🚀 Get in Touch :
 
