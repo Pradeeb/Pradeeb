@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Building+Modern+Web+Apps" />
+</p>
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm Pradeeb
 
 I'm a Junior Fullstack Developer. I like to work on open-source projects.
@@ -34,7 +37,11 @@ I'm a Junior Fullstack Developer. I like to work on open-source projects.
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Neon GitHub stats](https://github-readme-stats.vercel.app/api?username=Pradeeb&theme=radical&show_icons=true&count_private=true&title_color=ff00ff&icon_color=00ffff&text_color=ffffff&bg_color=0f0c29,302b63,24243e)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pradeeb&theme=radical&show_icons=true&count_private=true&title_color=ff00ff&icon_color=00ffff&text_color=ffffff&bg_color=0f0c29,302b63,24243e" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeeb&layout=compact&langs_count=10&theme=radical&title_color=ff00ff&text_color=ffffff&bg_color=0f0c29,302b63,24243e" height="180"/>
+</p>
 
 ## 🚀 Get in Touch :
 
